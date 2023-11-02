@@ -10,10 +10,10 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/MyInfo">MyInfo</Link>
+              <Link to="/MyInfo">About Me</Link>
             </li>
             <li>
-              <Link to="/MyPlace">MyPlace</Link>
+              <Link to="/MyPlace">My Town</Link>
             </li>
           </ul>
         </nav>
