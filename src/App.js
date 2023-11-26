@@ -17,7 +17,7 @@ function App() {
             </li>
             <li>
               <h1>
-                .....ON Main Branch....
+                .....on QA Branch....
               </h1>
             </li>
           </ul>
